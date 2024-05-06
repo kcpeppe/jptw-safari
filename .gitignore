@@ -1,0 +1,13 @@
+.idea
+demo1/target
+demo1/gc.log*
+exercise1/target
+exercise1/gc.log*
+exercise1/dataset1.dat
+exercise1/dataset2.dat
+exercise1/dataset3.dat
+exercise1-full/target
+exercise1-full/gc.log*
+exercise1-full/dataset1.dat
+exercise1-full/dataset2.dat
+exercise1-full/dataset3.dat
